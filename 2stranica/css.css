@@ -174,3 +174,135 @@
     border: none;
     margin-left: 635px;
 }
+
+
+.brand{
+    padding-top: 80px;
+    padding-bottom: 42px;
+    padding-left: 80px;
+    padding-right: 80px;
+    color: #2A254B;
+    background-color: white;
+}
+.bloki{
+    display: flex;
+    justify-content: space-around;
+}
+.what{
+    background-color: #F9F9F9;
+    width: 305px;
+    padding: 48px;
+    margin-left: 20px;
+}
+.brand h2{
+    font-size: 32px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.what img{
+    width: 24px;
+    margin-bottom: 12px;
+}
+.what h5{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.what p{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.join{
+    display: flex;
+}
+.join img{
+    width: 720px;
+}
+.forma{
+    background-color: white;
+    padding: 71px 175px 66px 72px;
+    color: #2A254B;
+}
+.forma h2{
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 70px;
+    margin-bottom: 26px;
+}
+.forma p{
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 208px;
+}
+.forma img{
+    width: 472px;
+}
+
+
+.footer{
+    background-color: #2A254B;
+    padding: 58px 80px 50px 80px;
+}
+.verx{
+    display: flex;
+}
+.menufooter{
+    width: 127px;
+    margin-right: 90px;
+}
+.menuhead{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: white;
+    line-height: 140%;
+}
+.minimenu{
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 12px;
+    color: white;
+    line-height: 140%;
+}
+.categories{
+    width: 98px;
+    margin-right: 119px;
+}
+.company{
+    width: 120px;
+    margin-right: 94px;
+}
+.mailing{
+    width: 627px;
+}
+.mailing img{
+    width: 627px;
+}
+.mailing p{
+    margin-bottom: 8px;
+}
+.footer hr{
+    margin-top: 56px;
+    margin-bottom: 24px;
+    border-color: #4E4D93;
+}
+.niz{
+    display: flex;
+}
+.niz p{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    line-height: 140%;
+    margin-right: 760px;
+}
+.iconki{
+    display: flex;
+}
+.iconki img{
+    width: 24px;
+    margin-left: 24px;
+}
